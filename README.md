@@ -1,2 +1,2 @@
 # mobx-react-mvvm
-a mvvm standard based on mobx-react
+a mvvm standard by TypeScript based on mobx-react
